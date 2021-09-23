@@ -1,6 +1,6 @@
 # Obstacle course
-Game made with Unity
-2020.3.15f2 version
+Game made with Unity \
+2020.3.15f2 version\
 Little obstacle course game with 2.5D perspective. In this I was just playing with simple ideas such as possible movement and different obstacles based on different mechanics.
 
 
